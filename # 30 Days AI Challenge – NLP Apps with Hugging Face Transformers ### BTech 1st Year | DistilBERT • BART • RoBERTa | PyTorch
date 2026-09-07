@@ -3,7 +3,7 @@
 
 Built 4 mini AI apps by bypassing pipeline errors using AutoTokenizer + AutoModel method.
 
-*Live Demo:* https://colab.research.google.com/drive/1857LQHk-8d7DUIByDeeCwQQwZQQJ55Jd?usp=sharing
+*Live Demo:* https://a6ff0ecffd1c1a9f22.gradio.live
 
 ## Day 1: Sentiment Analysis
 Model: distilbert-base-uncased-finetuned-sst-2-english
